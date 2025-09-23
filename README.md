@@ -4,9 +4,12 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Yilin Wu (yw6501) - https://github.com/YilinWu1028
-Hanqi Gui (hg2542) - https://github.com/hanqigui
-Sina Liu (sl9608) - https://github.com/SinaL0123
+Yilin Wu (yw6501) - https://github.com/YilinWu1028  
+
+Hanqi Gui (hg2542) - https://github.com/hanqigui  
+
+Sina Liu (sl9608) - https://github.com/SinaL0123  
+
 Jingyao Fu (jf4585) - https://github.com/Sophiaaa430
 
 ## Stakeholders
