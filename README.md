@@ -104,8 +104,11 @@ Our app helps busy students, parents, and professionals manage their fridge inve
 
 ## Activity Diagrams
 
-![UML User1](images/uml1.png)
-![UML User2 & User3](images/uml2.png)
+### UML 1
+![UML Diagram 1](uml1.png)
+
+### UML 2
+![UML Diagram 2](uml2.png)
 
 
 ## Clickable Prototype
