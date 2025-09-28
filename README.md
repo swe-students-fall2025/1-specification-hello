@@ -77,7 +77,7 @@ Jingyao Fu (jf4585) - https://github.com/Sophiaaa430
 
 ## Product Vision Statement
 
-Our app empowers busy students, parents, and professionals to eat healthier, save time and money, and reduce food waste by generating personalized meal plans and shopping lists based on budget, dietary needs, and fridge inventory, while providing smart reminders and simple, collaborative cooking solutions.
+Our app helps busy students, parents, and professionals manage their fridge inventory and reduce food waste by tracking ingredients and expiry dates, while generating personalized recipes that match dietary needs, cooking skills, and available time. By integrating expiry alerts, nutrition tracking, and multiple ways to record ingredients, the app makes meal planning and grocery shopping simpler, healthier, and tailored to each user’s lifestyle.
 
 ## User Requirements
 
