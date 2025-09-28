@@ -114,3 +114,6 @@ Our app helps busy students, parents, and professionals manage their fridge inve
 ## Clickable Prototype
 
 - https://www.figma.com/proto/4vb1tsHDFKE5QMRTwCT8oL/SmartBite---swe-project1?node-id=172-251&t=b4Gm980JKCOh5boZ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=172%3A251&show-proto-sidebar=1
+
+## Wireframe 
+https://www.figma.com/design/4vb1tsHDFKE5QMRTwCT8oL/SmartBite---project1---Group-Hello--?node-id=0-1&p=f&m=draw
