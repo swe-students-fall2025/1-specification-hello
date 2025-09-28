@@ -26,14 +26,11 @@ Jingyao Fu (jf4585) - https://github.com/Sophiaaa430
 * Often forgets what’s left in the fridge and ends up buying duplicates.
 * Doesn’t know how to prioritize using soon-to-expire ingredients, leading to food waste.
 * Suffers from “choice overload” and doesn’t have time to spend half an hour browsing recipe sites.
-* Frequently forgets key ingredients while shopping, making recipes incomplete.
 
 **Goals / Needs:**
 
 * Generate recipes based on fridge inventory and expiry dates → **Waste-Reducing Recipes**
-* Generate recipes and shopping lists based on sudden cravings → **On-the-Spot Lists**
 * Get reminders about soon-to-expire ingredients → **Expiry Alerts**
-* Control meal spending and auto-generate ingredient lists based on budget → **Budget Management**
 * Quickly find 15-minute easy recipes for late, exhausting days → **Quick Meals**
 
 ---
@@ -42,20 +39,19 @@ Jingyao Fu (jf4585) - https://github.com/Sophiaaa430
 
 **Age:** 28
 
-**Background:** A new mother taking care of a baby at home while her husband works. Needs to balance childcare and housework, leaving very limited time and energy.
+**Background:** A new mother taking care of a baby and children at home while her husband works. Needs to balance childcare and housework, leaving very limited time and energy.
 
 **User Type:** Users who need efficient meal planning and grocery management.
 
 **Problems / Frustrations:**
 
-* Difficult to go grocery shopping with a baby; long lists are hard to manage, especially when multiple people are involved.
 * Different family members have different dietary needs (postpartum nutrition vs. husband’s weight loss vs. baby’s complementary food), which are hard to balance.
+* Every time I go to the supermarket, I need to buy a lot of food and need a simple operation to record the food inventory.
 
 **Goals / Needs:**
 
-* Quickly generate shopping lists tailored to preferences and needs to save time at the supermarket → **Personalized Lists**
 * Get recipe recommendations for different family members’ dietary needs (low oil, low salt, balanced nutrition, postpartum care, weight loss, baby meals) → **Personalized Recipes**
-* Enable family collaboration so her husband can pick up items on his way home → **Collaborative Shopping**
+* There are multiple ways to enter ingredients: manual, scanning, and receipt → **Convenient System**
 
 ---
 
@@ -85,13 +81,9 @@ Our app empowers busy students, parents, and professionals to eat healthier, sav
 
 ## User Requirements
 
-- As a student, I want to plan my weekly meals within a fixed budget so that I can save money.  
-
 - As a busy worker, I want quick 15-minute recipe suggestions so that I can cook after work without stress.  
 
 - As a health-conscious user, I want to see nutritional information for each meal so that I can track my protein intake.  
-
-- As a family parent, I want to manage a shared shopping list so that all family members know what to buy.  
 
 - As a user, I want reminders when food is about to expire so that I can avoid waste.  
 
@@ -99,16 +91,15 @@ Our app empowers busy students, parents, and professionals to eat healthier, sav
 
 - As a user, I want to record what I’ve cooked so that my inventory updates automatically.  
 
-- As a user, I want substitution suggestions for ingredients so that I can adapt recipes with what I have.  
-
 - As a beginner cook, I want simple step-by-step recipes so that I can follow easily.  
 
 - As a vegetarian, I want the app only to suggest plant-based meals so that I don’t see recipes I can’t use.  
 
 - As a user with food allergies, I want to exclude certain ingredients so that my meals are safe to eat.  
 
-- As a fitness enthusiast, I want the app to generate high-protein weekly plans so that I can reach my training goals.  
+- As a fitness enthusiast, I want the app to generate high-protein weekly recipes so that I can reach my training goals.
 
+- As a user, I want to filter recipes by cooking time so that I can choose meals that fit my schedule.
 
 
 ## Activity Diagrams
